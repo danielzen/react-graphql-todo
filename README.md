@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## React GraphQL TodoMVC
+server ready to be configured with graphcool, or you can use my endpoint in the comments. Thanks to Gleb Bahmutov's:
+https://github.com/bahmutov/todo-graphql-example
+
 ## Available Scripts
 
 In the project directory, you can run:
