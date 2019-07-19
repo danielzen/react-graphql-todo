@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JsBowerSettings">
+    <exe-path>/usr/local/opt/nvm/versions/node/v4.2.1/bin/bower</exe-path>
+    <config-path />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="222" />
+    <option name="y" value="171" />
+    <option name="width" value="1080" />
+    <option name="height" value="620" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptPreferStrict" value="true" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.12.0" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/opt/nvm/versions/node/v4.2.1/bin/node" />
+    <property name="js-jscs-package" value="/usr/local/opt/nvm/versions/node/v4.2.1/lib/node_modules/jscs" />
+    <property name="js-tslint-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/default/bin/node" />
+    <property name="js-tslint-package" value="$USER_HOME$/.nvm/versions/node/default/lib/node_modules/tslint" />
+    <property name="js.eslint.eslintPackage" value="$USER_HOME$/.nvm/versions/node/default/lib/node_modules/eslint" />
+    <property name="js.eslint.nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/default/bin/node" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.nvm/versions/node/v4.5.0/lib/node_modules/typescript/lib" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/current/bin/node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="$USER_HOME$/.nvm/versions/node/default/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/.nvm/versions/node/v10.15.3/lib/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
