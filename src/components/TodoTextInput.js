@@ -4,14 +4,6 @@ import React, { Component } from 'react'
 import { Mutation } from 'react-apollo'
 import { ALL_TODOS } from './Todos'
 
-function randomId () {
-  return Number(
-    Math.random()
-      .toString()
-      .substr(2, 10)
-  )
-}
-
 const ADD_TODO = gql`
   mutation AddTodo($title: String!) {
     createTodo(title: $title, completed: false) {
@@ -33,7 +25,6 @@ export default class TodoTextInput extends Component {
     if (e.which === 13) {
       addTodo({
         variables: {
-          id: randomId(),
           title: text
         }
       });
